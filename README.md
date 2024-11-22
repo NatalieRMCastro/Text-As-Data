@@ -12,7 +12,3 @@ In combination, these computational tools provide broader context to the text an
 I hope that these tutorials are helpful, for each method a tutorial is provided that walks through the basic steps of using that model and some visualizations. The Notion page provides information on the side along with the notebooks. For the [Gist’s](https://en.wikipedia.org/wiki/GitHub) they are able to be taken as is, and just input your data. These are intended to help anyone engage with the method, regardless of prior Python experience! Data can be passed in using an Excel or CSV file through the Pandas DataFrame.
 
 In all, text as data is a powerful tool that can support and facilitate a new kind of reading.  The insights provided through these processes must be validated and shared with confidence that the quantification of the text is representative of its meaning. These methods  provide an exploratory start to inductive data analysis, or can support a deductive theory at a larger scale. The ability provided through text as data methods also supports visualizing the texts in new wats, that the physical realm may have constrained. These applications are continuously evolving and something that can be applied into the future. 
-
-![Image by *Brian J. Matis on Flickr* ](https://prod-files-secure.s3.us-west-2.amazonaws.com/0db14523-2284-4f62-a2f7-34d205f490d0/645a211f-67b2-4ca5-af36-90b22242e63c/IMG_1475.webp)
-
-Image by *Brian J. Matis on Flickr*
